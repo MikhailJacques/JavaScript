@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "HelloWorld",
+  "main": "app.js",
+  "author": {
+    "name": "Mikhail Jacques"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
